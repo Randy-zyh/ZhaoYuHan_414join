@@ -5,4 +5,4 @@
 
 我希望获得的资源是老师与同学的教学支持，学校的环境支持。
 
-![Image]https://github.com/Randy-zyh/ZhaoYuHan_414join/blob/1d3f63fea45d8bea98ea512211e1f15a1a00e6a9/de0222fc0f424fd1b9d40043e3c90b4.jpg
+![Image](https://raw.githubusercontent.com/Randy-zyh/ZhaoYuHan_414join/blob/1d3f63fea45d8bea98ea512211e1f15a1a00e6a9/de0222fc0f424fd1b9d40043e3c90b4.jpg)
